@@ -273,7 +273,6 @@
             </div>
 
             <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
                 <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -433,7 +432,7 @@
         <div class="eight columns">
 
             <!-- form -->
-            <form action="" method="post" id="contactForm" name="contactForm">
+            <form action="insert.php" method="post" id="contactForm" name="contactForm">
                 <fieldset>
 
                     <div>
@@ -442,8 +441,8 @@
                     </div>
 
                     <div>
-                        <label for="phone">Phone Number <span class="required">*</span></label>
-                        <input type="text" value="" size="35" id="phone" name="phone">
+                        <label for="contactEmail">Phone Number <span class="required">*</span></label>
+                        <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
                     </div>
 
                     <div>
@@ -462,7 +461,6 @@
                         <img alt="" src="images/loader.gif">
                      </span>
                     </div>
-
                 </fieldset>
             </form>
             <!-- Form End -->
@@ -484,14 +482,15 @@
                 <h4>Address and Phone</h4>
 
                 <p class="address">
-                    Jonathan Doe<br>
-                    1600 Amphitheatre Parkway <br>
-                    Mountain View, CA 94043 US<br>
-                    <span>(123) 456-7890</span>
+                    Jatin Chaudhary<br>
+                    Tata Consultancy Services <br>
+                   Skyview Corporate Park, Sector 74A, Gurgaon<br>
+                    <span>+91-9953356459</span>
                 </p>
 
             </div>
 
+<!--
             <div class="widget widget_tweets">
 
                 <h4 class="widget-title">Latest Tweets</h4>
@@ -516,6 +515,7 @@
                 </ul>
 
             </div>
+-->
 
         </aside>
 
@@ -563,7 +563,7 @@
                         <span>ndjatin@gmail.com</span>
                     </p>
                     <a href="https://www.facebook.com/CJ024" target="_blank"><i class="fa fa-facebook"></i></a> &nbsp;&nbsp;
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/jatincj"><i class="fa fa-linkedin"></i></a>
 
 
                 </div>
@@ -581,7 +581,7 @@
                     </p>
                     <a href="https://www.facebook.com/ietnilay" target="_blank"><i class="fa fa-facebook"></i></a>
                     &nbsp;&nbsp;
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/nilay-raj-72861b18"><i class="fa fa-linkedin"></i></a>
                 </div>
 
             </div>
