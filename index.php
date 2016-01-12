@@ -61,10 +61,9 @@
         <div class="banner-text">
             <h1 class="responsive-headline">Khushiyaa Baato.</h1>
 
-            <h3>We are small organization who wants to help the underprivilidge people in India. If you have some item
-                which could help the needy, we will take the item and deliver it to people who can actually use them. We
-                have tie-ups
-                NGOs and Orphanages. So lets <a class="smoothscroll" href="#portfolio">start scrolling</a>
+            <h3>We are a group of engineers who want to help the underprivilidged people of India. If you have any item
+                which could help the needy, we will get them delivered to people who can actually use it. We
+                have tie-ups NGOs and Orphanages. So lets <a class="smoothscroll" href="#portfolio">start scrolling</a>
                 and learn more <a class="smoothscroll" href="#about">about us</a>.</h3>
             <hr/>
             <!--<ul class="social">
@@ -583,7 +582,7 @@
                     &nbsp;&nbsp;
                     <a href="https://www.linkedin.com/in/nilay-raj-72861b18"><i class="fa fa-linkedin"></i></a>
                 </div>
-
+                
             </div>
             <!-- end row -->
 
@@ -601,7 +600,7 @@
 <footer>
 
     <div class="row">
-
+<!--
         <div class="twelve columns">
 
             <ul class="social-links">
@@ -612,7 +611,7 @@
             </ul>
 
         </div>
-
+-->
         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
 
     </div>
